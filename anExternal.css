@@ -1,0 +1,25 @@
+#rcorners {
+border-radius:25px;
+border: 2px solid red;
+padding: 15px;
+width: 300px;
+height: 80px;
+font-size:300%;
+font-family:apple chancery;
+}
+#image {
+width: 500px;
+height: 250px;
+float: left;
+margin-right: 10px;
+}
+#text {
+font-size:150%;
+color:orange;
+font-family:Futura;
+}
+#text2 {
+font-family:Futura;
+color: darkblue;
+margin-left:110px;
+}
