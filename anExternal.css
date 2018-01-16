@@ -8,18 +8,37 @@ font-size:300%;
 font-family:apple chancery;
 }
 #image {
-width: 500px;
-height: 250px;
+width: 200px;
+height: 200px;
 float: left;
-margin-right: 10px;
+margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+#image2 {
+width: 200px;
+height: 200px;
+position: relative;
+float: left;
+text-align: center;
 }
 #text {
-font-size:150%;
+font-size:170%;
 color:orange;
 font-family:Futura;
 }
 #text2 {
 font-family:Futura;
+color: Yellow;
+position: absolute;
+font-size: 120%;
+left: 0;
+top: 30px;
+width: 100%;
+}
+#text3 {
+font-family: apple chancery;
 color: darkblue;
-margin-left:110px;
+border-style: dotted;
 }
