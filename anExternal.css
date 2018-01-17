@@ -1,3 +1,21 @@
+#text4 {
+font-family: Georgia;
+font-size: 150%;
+background-color: pink;
+}
+#text5 {
+font-family: silom;
+font-size: 180%;
+background-color: purple;
+}
+#image3 {
+width: 50px;
+height: 50px;
+}
+#image4 {
+width: 50px;
+height: 50px;
+}
 #rcorners {
 border-radius:25px;
 border: 2px solid red;
@@ -8,17 +26,14 @@ font-size:300%;
 font-family:apple chancery;
 }
 #image {
-width: 200px;
-height: 200px;
+width: 500px;
+height: auto;
 float: left;
 margin-right: 20px;
-margin-top: 20px;
-margin-bottom: 20px;
-margin-left: 20px;
 }
 #image2 {
-width: 200px;
-height: 200px;
+width: 400px;
+height: auto;
 position: relative;
 float: left;
 text-align: center;
@@ -32,7 +47,7 @@ font-family:Futura;
 font-family:Futura;
 color: Yellow;
 position: absolute;
-font-size: 120%;
+font-size: 200%;
 left: 0;
 top: 30px;
 width: 100%;
@@ -41,4 +56,10 @@ width: 100%;
 font-family: apple chancery;
 color: darkblue;
 border-style: dotted;
+}
+#image5 {
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
 }
